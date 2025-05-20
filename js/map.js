@@ -1,0 +1,16 @@
+const map = L.map('map').setView([48.8566, 2.3522], 3); // Centered on Europe
+
+// Add OpenStreetMap tile layer
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+attribution: 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+// WWII Events
+L.marker([48.8049, 2.1204]).addTo(map).bindPopup(`<strong>Treaty of Versailles Signed</strong><br>6/28/1919<br><p>On June 28, 1919, the Treaty of Versailles was signed at the Palace of Versailles, officially ending World War I. The treaty imposed strict reparations and territorial losses on Germany and laid the groundwork for geopolitical tensions that would later lead to World War II.</p>`);
+L.marker([41.9028, 12.4964]).addTo(map).bindPopup(`<strong>Mussolini Takes Power in Italy</strong><br>10/31/1922<br><p>On October 31, 1922, Benito Mussolini became Prime Minister of Italy after the March on Rome. This marked the beginning of Fascist rule in Italy and Mussolini's rise as a totalitarian dictator.</p>`);
+L.marker([51.4717, 7.2205]).addTo(map).bindPopup(`<strong>Occupation of the Ruhr</strong><br>1/11/1923<br><p>On January 11, 1923, French and Belgian troops occupied Germany's Ruhr Valley after Germany failed to make reparations payments required by the Treaty of Versailles. The occupation escalated tensions in postwar Europe and crippled the German economy, contributing to hyperinflation and unrest.</p>`);
+L.marker([48.1351, 11.5820]).addTo(map).bindPopup(`<strong>Beer Hall Putsch</strong><br>11/8/1923<br><p>On November 8–9, 1923, Adolf Hitler and the Nazi Party attempted to overthrow the Weimar government in what became known as the Beer Hall Putsch. The coup failed, and Hitler was arrested and sentenced to prison, during which he wrote <em>Mein Kampf</em>.</p>`);
+L.marker([52.5200, 13.4050]).addTo(map).bindPopup(`<strong>Hitler Appointed Chancellor of Germany</strong><br>1/30/1933<br><p>On January 30, 1933, Adolf Hitler was appointed Chancellor of Germany by President Paul von Hindenburg. This marked a critical turning point that enabled Hitler to dismantle democratic institutions and establish a totalitarian Nazi regime.</p>`);
+L.marker([52.5186, 13.3762]).addTo(map).bindPopup(`<strong>Reichstag Fire</strong><br>2/27/1933<br><p>On February 27, 1933, the German parliament building (Reichstag) was set on fire in Berlin. The Nazis blamed the communists and used the incident to justify the Reichstag Fire Decree, which suspended civil liberties and allowed mass arrests, helping Hitler consolidate power.</p>`);
+L.marker([52.5200, 13.4050]).addTo(map).bindPopup(`<strong>Night of the Long Knives</strong><br>6/30/1934<br><p>From June 30 to July 2, 1934, Adolf Hitler carried out a series of political purges known as the Night of the Long Knives. The Nazi regime arrested and executed members of the SA (Sturmabteilung) and other political opponents to consolidate Hitler's absolute power in Germany.</p>`);
+L.marker([53.5900, 20.3400]).addTo(map).bindPopup(`<strong>Death of Paul von Hindenburg</strong><br>8/2/1934<br><p>On August 2, 1934, President Paul von Hindenburg died at the age of 86. His death allowed Adolf Hitler to merge the offices of Chancellor and President, declaring himself Führer of Germany and securing total control of the state.</p>`);

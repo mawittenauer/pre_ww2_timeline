@@ -1,0 +1,104 @@
+{
+    "title": {
+        "text": {
+          "headline": "Pre World War II<br/> Major Events",
+          "text": "<p>This is a timeline of all the major events that led up to the start of World War 2.</p>"
+        },
+        "media": {
+          "url": "/images/642d47c981640a001d7428e9.jpg",
+          "caption": "World War 2",
+          "credit": "Google"
+        }
+    },
+    "events": [
+        {
+            "start_date": {
+                "month": "6",
+                "day": "28",
+                "year": "1919"
+            },
+            "text": {
+                "headline": "Treaty of Versailles Signed",
+                "text": "<p>On June 28, 1919, the Treaty of Versailles was signed at the Palace of Versailles, officially ending World War I. The treaty imposed strict reparations and territorial losses on Germany and laid the groundwork for geopolitical tensions that would later lead to World War II.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "10",
+                "day": "31",
+                "year": "1922"
+            },
+            "text": {
+                "headline": "Mussolini Takes Power in Italy",
+                "text": "<p>On October 31, 1922, Benito Mussolini became Prime Minister of Italy after the March on Rome. This marked the beginning of Fascist rule in Italy and Mussolini's rise as a totalitarian dictator.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "day": "11",
+                "year": "1923"
+            },
+            "text": {
+                "headline": "Occupation of the Ruhr",
+                "text": "<p>On January 11, 1923, French and Belgian troops occupied Germany's Ruhr Valley after Germany failed to make reparations payments required by the Treaty of Versailles. The occupation escalated tensions in postwar Europe and crippled the German economy, contributing to hyperinflation and unrest.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "11",
+                "day": "8",
+                "year": "1923"
+            },
+            "text": {
+                "headline": "Beer Hall Putsch",
+                "text": "<p>On November 8–9, 1923, Adolf Hitler and the Nazi Party attempted to overthrow the Weimar government in what became known as the Beer Hall Putsch. The coup failed, and Hitler was arrested and sentenced to prison, during which he wrote <em>Mein Kampf</em>.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "1",
+                "day": "30",
+                "year": "1933"
+            },
+            "text": {
+                "headline": "Hitler Appointed Chancellor of Germany",
+                "text": "<p>On January 30, 1933, Adolf Hitler was appointed Chancellor of Germany by President Paul von Hindenburg. This marked a critical turning point that enabled Hitler to dismantle democratic institutions and establish a totalitarian Nazi regime.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "2",
+                "day": "27",
+                "year": "1933"
+            },
+            "text": {
+                "headline": "Reichstag Fire",
+                "text": "<p>On February 27, 1933, the German parliament building (Reichstag) was set on fire in Berlin. The Nazis blamed the communists and used the incident to justify the Reichstag Fire Decree, which suspended civil liberties and allowed mass arrests, helping Hitler consolidate power.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "6",
+                "day": "30",
+                "year": "1934"
+            },
+            "text": {
+                "headline": "Night of the Long Knives",
+                "text": "<p>From June 30 to July 2, 1934, Adolf Hitler carried out a series of political purges known as the Night of the Long Knives. The Nazi regime arrested and executed members of the SA (Sturmabteilung) and other political opponents to consolidate Hitler's absolute power in Germany.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "8",
+                "day": "2",
+                "year": "1934"
+            },
+            "text": {
+                "headline": "Death of Paul von Hindenburg",
+                "text": "<p>On August 2, 1934, President Paul von Hindenburg died at the age of 86. His death allowed Adolf Hitler to merge the offices of Chancellor and President, declaring himself Führer of Germany and securing total control of the state.</p>"
+            }
+        }
+
+    ]   
+}
