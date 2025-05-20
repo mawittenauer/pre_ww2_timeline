@@ -1,6 +1,6 @@
-# 🌍 World War II Timeline
+# 🌍 Pre World War II Timeline
 
-An interactive and educational timeline of key events during World War II, built using [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) by Knight Lab.
+An interactive and educational timeline of key events leading up to World War II, built using [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) by Knight Lab.
 
 This project presents major global events from 1939 to 1945 in an accessible, scrollable timeline format. Perfect for history enthusiasts, educators, and anyone interested in learning more about the most significant conflict of the 20th century.
 
