@@ -98,7 +98,50 @@
                 "headline": "Death of Paul von Hindenburg",
                 "text": "<p>On August 2, 1934, President Paul von Hindenburg died at the age of 86. His death allowed Adolf Hitler to merge the offices of Chancellor and President, declaring himself Führer of Germany and securing total control of the state.</p>"
             }
+        },
+        {
+            "start_date": {
+                "month": "3",
+                "day": "7",
+                "year": "1936"
+            },
+            "text": {
+                "headline": "Germany Remilitarizes the Rhineland",
+                "text": "<p>On March 7, 1936, Adolf Hitler defied the Treaty of Versailles and the Locarno Pact by sending German troops into the demilitarized Rhineland. This move was met with little resistance from France or Britain. A month later, a national referendum overwhelmingly approved Hitler's actions, further consolidating his control and emboldening Nazi foreign policy.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "3",
+                "day": "12",
+                "year": "1938"
+            },
+            "text": {
+                "headline": "Annexation of Austria (Anschluss)",
+                "text": "<p>On March 12, 1938, German troops crossed the border into Austria and completed the annexation of the country in what became known as the Anschluss. The move was welcomed by many Austrians and later ratified by a manipulated plebiscite, further expanding Nazi Germany's territory without military conflict.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "10",
+                "day": "1",
+                "year": "1938"
+            },
+            "text": {
+                "headline": "Occupation of the Sudetenland",
+                "text": "<p>On October 1, 1938, German troops entered the Sudetenland, a region of Czechoslovakia with a large ethnic German population. The occupation was authorized by the Munich Agreement, signed by Britain, France, Italy, and Germany—without Czechoslovak involvement. In March 1939, Hitler violated the agreement by occupying the rest of Czechoslovakia, marking a major step toward World War II.</p>"
+            }
+        },
+        {
+            "start_date": {
+                "month": "11",
+                "day": "9",
+                "year": "1938"
+            },
+            "text": {
+                "headline": "Kristallnacht (Night of Broken Glass)",
+                "text": "<p>On the night of November 9–10, 1938, Nazi paramilitary forces and civilians carried out coordinated attacks against Jews throughout Nazi Germany and Austria. Synagogues were burned, Jewish-owned businesses and homes were vandalized and looted, and around 30,000 Jewish men were arrested and sent to concentration camps. Kristallnacht marked a major escalation in Nazi anti-Jewish policy and the path toward the Holocaust.</p>"
+            }
         }
-
     ]   
 }
